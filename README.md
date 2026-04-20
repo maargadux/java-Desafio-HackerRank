@@ -1,6 +1,8 @@
 # 🧠 Weird or Not Weird (Java)
 
-Desafio 2 - Hacker Rank (Java IF ELSE) - desafio com condicoes
+Desafio 2 - Hacker Rank (estranho ou nao-Estranho) - desafio com condicoes
+Se o numero for impar = estranho
+par = nao-Estranho
 
 ## 🚀 Descrição
 
